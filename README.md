@@ -1,7 +1,7 @@
 # app-dev
 My first repository
-## **My Favorite Movies** 
-**My Favorite Movoies**
+## **Movies Tier List** 
+**My Favorite Movies**
 1. *Titanic* 🛳️
    [Information](https://en.wikipedia.org/wiki/Titanic_(1997_film))
 2. *How to train your Dragon* 🐉
