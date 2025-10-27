@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-## **My Favorite Movoies** 
+## **My Favorite Movies** 
 **My Favorite Movoies**
 1. *Titanic* 🛳️
    [Titanic](https://en.wikipedia.org/wiki/Titanic_(1997_film))
