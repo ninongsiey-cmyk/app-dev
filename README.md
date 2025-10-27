@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 ## **Movie Tier List** 
-#**My Favorite Movies**
+# **My Favorite Movies**
 1. ### *Titanic (1997 film)* 🛳️
    [Information](https://en.wikipedia.org/wiki/Titanic_(1997_film))
 2. ### *How to train your Dragon (2025 film)* 🐉
